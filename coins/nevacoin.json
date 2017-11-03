@@ -1,0 +1,7 @@
+{
+    "name": "Nevacoin",
+    "symbol": "NEVA",
+    "algorithm": "blake2s",
+    "peerMagic": "e483e632",
+    "peerMagicTestnet": "ac43fe8c"
+}

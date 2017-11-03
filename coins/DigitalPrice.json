@@ -1,0 +1,6 @@
+{
+    "name": "DigitalPrice",
+    "symbol": "DP",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}

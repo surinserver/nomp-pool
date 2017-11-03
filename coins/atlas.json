@@ -1,0 +1,5 @@
+{
+    "name": "atlas",
+    "symbol": "atlas",
+    "algorithm": "scrypt"
+}

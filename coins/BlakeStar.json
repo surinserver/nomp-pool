@@ -1,0 +1,5 @@
+{
+    "name": "BlakeStar",
+    "symbol": "BLAS",
+    "algorithm": "blake2s"
+}

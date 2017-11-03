@@ -1,0 +1,5 @@
+{
+    "name": "novacoin",
+    "symbol": "NVC",
+    "algorithm": "scrypt"
+}

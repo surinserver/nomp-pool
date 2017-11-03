@@ -1,0 +1,5 @@
+{
+    "name": "samplecoin",
+    "symbol": "SAMPLE",
+    "algorithm": "scrypt"
+}

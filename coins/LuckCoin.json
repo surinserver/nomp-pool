@@ -1,0 +1,5 @@
+{
+    "name": "LuckCoin",
+    "symbol": "LUCK",
+    "algorithm": "scrypt"
+}

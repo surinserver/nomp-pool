@@ -1,0 +1,5 @@
+{
+    "name": "HighPoSCoin",
+    "symbol": "HPS",
+    "algorithm": "scrypt"
+}

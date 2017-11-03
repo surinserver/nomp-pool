@@ -1,0 +1,5 @@
+{
+    "name": "coppercoin",
+    "symbol": "copper",
+    "algorithm": "scrypt"
+}

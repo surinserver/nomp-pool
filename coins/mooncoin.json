@@ -1,0 +1,5 @@
+{
+    "name": "mooncoin",
+    "symbol": "MOON",
+    "algorithm": "scrypt"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "beerhouse",
+    "symbol": "BEER",
+    "algorithm": "scrypt"
+}

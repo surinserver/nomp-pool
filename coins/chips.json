@@ -1,0 +1,5 @@
+{
+    "name": "chipscoin",
+    "symbol": "chips",
+    "algorithm": "sha256"
+}

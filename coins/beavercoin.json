@@ -1,0 +1,5 @@
+{
+    "name": "beavercoin",
+    "symbol": "BVC",
+    "algorithm": "scrypt"
+}

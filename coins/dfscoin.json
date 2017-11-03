@@ -1,0 +1,5 @@
+{
+    "name": "dfscoin",
+    "symbol": "dfs",
+    "algorithm": "scrypt"
+}

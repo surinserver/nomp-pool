@@ -1,0 +1,5 @@
+{
+    "name": "cheesecoin",
+    "symbol": "cheese",
+    "algorithm": "scrypt"
+}

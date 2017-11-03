@@ -1,0 +1,6 @@
+{
+    "name": "monacoCoin",
+    "symbol": "MCC",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256
+}

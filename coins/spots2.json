@@ -1,0 +1,5 @@
+{
+    "name": "spots2",
+    "symbol": "SPT",
+    "algorithm": "scrypt"
+}
